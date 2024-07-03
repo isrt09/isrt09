@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     </td>        
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio"/>
       </a>      
       <br>
     </td>
