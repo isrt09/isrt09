@@ -16,111 +16,111 @@ Here are some ideas to get you started:
 <h3 align="left" id="macropower-tech">Languages and Tools</h3>
 <table>
   <tr>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" />        
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />        
       </a>      
       <br>
     </td>      
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt="ASP.NET" />
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" />
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="Typescript" />
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="Typescript" />
       </a>      
       <br>
     </td>    
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="40" height="40" alt="SQL Server"/>
+        <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="48" height="48" alt="SQL Server"/>
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin"/>
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin"/>
       </a>      
       <br>
     </td>    
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JS" />
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JS" />
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=jquery" width="40" height="40" alt="jQuery" />
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="SASS" />
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="SASS" />
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="40" height="40" alt="Visual Studio" />
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       </a>      
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=sublime" width="40" height="40" alt="Sublime Text" />
+        <img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="Sublime Text" />
       </a>      
       <br>
     </td>
