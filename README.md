@@ -45,6 +45,12 @@ Here are some ideas to get you started:
       </a>      
       <br>
     </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node JS" />
+      </a>      
+      <br>
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="Typescript" />
@@ -92,7 +98,7 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JS" />
       </a>      
       <br>
-    </td>
+    </td>    
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
