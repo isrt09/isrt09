@@ -45,13 +45,7 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="Typescript" />
       </a>      
       <br>
-    </td>    
-    <td align="center" width="60">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="40" height="40" alt="SQL Server"/>
-      </a>      
-      <br>
-    </td>
+    </td>        
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
