@@ -10,9 +10,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Enveto
-- 🌱 I’m currently learning Microservice, Angular, React
+- 🌱 I’m currently learning ** Microservice, Angular, React **
 - 🤔 I’m looking for help with Microsoft .NET Technologies
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :mailbox: &nbsp; How to reach me :  **mazedur@gmail.com**
+- :computer: &nbsp;Connect with me on&nbsp; [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mazedur/)
+&nbsp;
 <h2 align="left" id="macropower-tech">Languages and Tools</h2>
 
 > Tools, languages, and other things that I like to work with.
