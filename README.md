@@ -44,6 +44,12 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       </a>      
       <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node" />
+      </a>      
+      <br>
     </td>    
     <td align="center" width="96">
       <a href="#macropower-tech">
