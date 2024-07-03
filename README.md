@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Enveto
 - 🌱 I’m currently learning Microservice, Angular, React
 - 🤔 I’m looking for help with Microsoft .NET Technologies
-- 📫 How to reach me: mazedur@gmail.com
-<h3 align="left" id="macropower-tech">Languages and Tools</h3>
-<table>
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+<h2 align="left" id="macropower-tech">Languages and Tools</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>  
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
