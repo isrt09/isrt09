@@ -1,4 +1,4 @@
-## Hi 👋, This is Mazed
+## Hi 👋, This is Mazed <img src="https://komarev.com/ghpvc/?username=isrt09&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="Mazedur" /> 
 ![Banner Image](Banner.png)
 <!--
 **isrt09/isrt09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -120,5 +120,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isrt09&show_icons=true&locale=en&layout=compact" alt="Mazedur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isrt09&show_icons=true&locale=en" alt="Mazedur" /></p>
 
