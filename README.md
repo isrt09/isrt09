@@ -1,5 +1,5 @@
 ## Hi 👋, This is Mazed
-![Banner Image](banner.png)
+![Banner Image](Banner.png)
 <!--
 **isrt09/isrt09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
