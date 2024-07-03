@@ -59,7 +59,19 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      </a>      
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin"/>
+      </a>      
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R Studio"/>
       </a>      
       <br>
     </td>    
@@ -104,7 +116,9 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="SASS" />
       </a>      
       <br>
-    </td>
+    </td>    
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
@@ -120,6 +134,54 @@ Here are some ideas to get you started:
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="Sublime Text" />
+      </a>      
+      <br>
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse" />
+      </a>      
+      <br>
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IDEA" />
+      </a>      
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      </a>      
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Github" />
+      </a>      
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="Adobe XD" />
+      </a>      
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      </a>      
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+      </a>      
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illutrator" />
       </a>      
       <br>
     </td>
