@@ -11,12 +11,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Enveto
+- 🔭 I’m currently working on Enveto 
 - 🌱 I’m currently learning ** Microservice, Angular, React **
 - 🤔 I’m looking for help with Microsoft .NET Technologies
 - :mailbox: How to reach me :  **mazedur@gmail.com**
 - :computer: Connect with me on&nbsp; [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mazedur/)
-&nbsp;
+<div class='container'>
+  <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=isrt09&show_icons=true&theme=blue-green" />&nbsp;&nbsp;
+  <img style="height: auto; width: 34%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrt09&theme=blue-green&langs_count=8&layout=compact" />
+</div>
+</div>
 <h2 align="left" id="macropower-tech">Languages and Tools</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -195,5 +199,3 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isrt09&show_icons=true&locale=en" alt="Mazedur" /></p>
-
