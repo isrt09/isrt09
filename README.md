@@ -46,7 +46,7 @@ Here are some ideas to get you started:
       </a>      
       <br>
     </td>    
-    <td align="center" width="70">
+    <td align="center" width="60">
       <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="40" height="40" alt="SQL Server"/>
       </a>      
