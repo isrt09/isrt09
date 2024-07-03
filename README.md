@@ -98,7 +98,9 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       </a>      
       <br>
-    </td>
+    </td>    
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
@@ -117,8 +119,6 @@ Here are some ideas to get you started:
       </a>      
       <br>
     </td>    
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
