@@ -1,7 +1,7 @@
 ## Hi 👋, This is Mazed <img src="https://komarev.com/ghpvc/?username=isrt09&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="Mazedur" /> 
 ![Banner Image](Banner.png)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=isrt09)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=isrt09)
 <!--
 **isrt09/isrt09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
