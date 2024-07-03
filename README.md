@@ -195,6 +195,5 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isrt09&show_icons=true&locale=en&layout=compact" alt="Mazedur" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isrt09&show_icons=true&locale=en" alt="Mazedur" /></p>
 
