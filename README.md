@@ -1,5 +1,4 @@
 ## Hi 👋, This is Mazed <img src="https://komarev.com/ghpvc/?username=isrt09&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="Mazedur" /> 
-![Banner Image](Banner.png)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isrt09)
 <!--
